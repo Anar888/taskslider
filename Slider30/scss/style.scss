@@ -1,0 +1,71 @@
+.head{
+    background-image: url("http://themesindustry.com/html/trax-2020/images/testimonial-bg.jpg");
+height: 450px;
+
+}
+.head{
+   
+    span{
+        color: white;
+        text-align: end;
+      
+    }
+     h2{
+   
+        color: white;
+        text-align: end;
+    }
+} 
+
+.slide{
+    background-color: white;
+z-index: 1;
+  
+    
+}
+.page2{
+    .btn{
+   
+    }
+    .prev, .next {
+        cursor: pointer;
+        position: absolute;
+        top: 65%;
+        width: auto;
+       
+      line-height: 5;
+        color: black;
+        font-weight: bold;
+        font-size: 20px;
+        transition: 0.6s ease;
+        text-decoration: none;
+      
+      }
+      
+      .next {
+        left: 393px;
+     
+      }
+    .textdiv{
+        margin: 140px;
+        
+      
+    }
+    .imgdiv{
+        text-align: center;
+        top: 20px;
+    }
+    img{
+        border: 1px solid none;
+        border-radius: 153px;
+       
+        
+    }
+    .slide{
+        display: none;
+    }
+    .aktiv{
+        display: flex;
+    }
+    
+}
